@@ -1,0 +1,9 @@
+Summary for auth.jar
+Decompiled with CFR 0.152
+
+
+com.sap.b1.thin.auth.CompanyListServlet
+----------------------------
+
+service()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
